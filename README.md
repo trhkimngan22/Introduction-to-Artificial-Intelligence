@@ -1,2 +1,2 @@
-# Introduction-to-Artificial-Intelligence
-Introduction to Artificial Intelligence -HCMUS
+# Introduction to Artificial Intelligence
+Introduction to Artificial Intelligence - HCMUS
