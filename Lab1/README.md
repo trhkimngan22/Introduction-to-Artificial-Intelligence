@@ -1,11 +1,12 @@
 # BÁO CÁO ĐỒ ÁN CƠ SỞ TRÍ TUỆ NHÂN TẠO
 
 ## 1. Thông tin nhóm
-|Họ tên|MSSV|
-|Hồ Khánh Duy|22120076|
-|Đoàn Thị Minh Anh|22120213|
-|Trần Hoàng Kim Ngân|22120224|
-|Đinh Lê Gia Như|22120257|
+| Họ tên               | MSSV      |
+|----------------------|----------|
+| Hồ Khánh Duy        | 22120076  |
+| Đoàn Thị Minh Anh   | 22120213  |
+| Trần Hoàng Kim Ngân | 22120224  |
+| Đinh Lê Gia Như     | 22120257  |
 
 ## 2. Run
 
